@@ -7846,8 +7846,8 @@ h1, h2, h3, h4, h5, h6 {
   outline: none;
 }
 .fh5co-feature .fh5co-feature-icon, .fh5co-figure .fh5co-feature-icon,  .fh5co-img {
-  width: 80px;
-  height: 80px;
+  width: 200px;
+  height: 200px;
   display: block;
   display: table;
   text-align: center;
