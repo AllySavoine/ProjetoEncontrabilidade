@@ -7814,10 +7814,6 @@ h1, h2, h3, h4, h5, h6 {
   padding: 7em 0;
 }
 
-#fh5co-blog{
-  background: #bfbfbf;
-}
-
 @media screen and (max-width: 768px) {
   #fh5co-features{
     padding: 4em 0;
